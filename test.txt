@@ -3,5 +3,9 @@ hello to all
 
 hello to all 2
 
+<<<<<<< HEAD
 
 hello fr K
+=======
+hello by gmoutzur, papaz
+>>>>>>> origin/master
